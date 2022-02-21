@@ -2,7 +2,7 @@
 <head><title>HTML Resume</title></head>
 <body>
  
-	<u><h1><center>Student Resume</center></h1></u>
+	<h1><center>Student Resume</center></h1>
 	
 	<img src ="images/shah.jpeg" width="125" height="140" style="float:right">
 
@@ -75,4 +75,3 @@
 </fieldset>
 </body>
 </html>
-
